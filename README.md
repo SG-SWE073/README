@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there! 👋
 
 I'm a passionate software developer specializing in JavaScript and TypeScript, with a keen interest in the vibrant ecosystem surrounding these technologies. Welcome to my GitHub profile!
 
